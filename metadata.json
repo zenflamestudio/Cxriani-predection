@@ -1,0 +1,6 @@
+{
+  "name": "Prediction App",
+  "description": "Football match prediction app with admin controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
